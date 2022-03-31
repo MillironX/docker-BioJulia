@@ -9,6 +9,9 @@
 Most of the [BioJulia] ecosystem made available as a single ready-made [Docker]
 image. Built on top of my [JuliaPro image].
 
+Note: the version of the image refers to the latest version of BioSequences that
+will resolve in the Pkg environment.
+
 ## Usage
 
 The image is hosted on [Docker Hub], [Quay], and the [GitHub Container
