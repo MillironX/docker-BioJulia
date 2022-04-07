@@ -40,9 +40,9 @@ jobs:
         with:
           push: true
           tags: |
-            millironx/juliapro:latest
-            millironx/juliapro:${{ steps.tag-name.outputs.tag }}
-            quay.io/millironx/juliapro:latest
-            quay.io/millironx/juliapro:${{ steps.tag-name.outputs.tag }}
-            ghcr.io/millironx/juliapro:latest
-            ghcr.io/millironx/juliapro:${{ steps.tag-name.outputs.tag }}
+            millironx/biojulia:latest
+            millironx/biojulia:${{ steps.tag-name.outputs.tag }}
+            quay.io/millironx/biojulia:latest
+            quay.io/millironx/biojulia:${{ steps.tag-name.outputs.tag }}
+            ghcr.io/millironx/biojulia:latest
+            ghcr.io/millironx/biojulia:${{ steps.tag-name.outputs.tag }}
