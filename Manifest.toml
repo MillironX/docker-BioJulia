@@ -1508,6 +1508,12 @@ git-tree-sha1 = "7008a3412d823e29d370ddc77411d593bd8a3d03"
 uuid = "6f286f6a-111f-5878-ab1e-185364afe411"
 version = "0.9.1"
 
+[[Mustache]]
+deps = ["Printf", "Tables"]
+git-tree-sha1 = "bfbd6fb946d967794498790aa7a0e6cdf1120f41"
+uuid = "ffc61752-8dc7-55ee-8c37-f3e9cdd09e70"
+version = "1.0.13"
+
 [[MutableArithmetics]]
 deps = ["LinearAlgebra", "SparseArrays", "Test"]
 git-tree-sha1 = "ba8c0f8732a24facba709388c74ba99dcbfdda1e"
