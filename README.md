@@ -1,6 +1,6 @@
 # BioJulia Docker Image
 
-[![Build Docker](https://github.com/MillironX/docker-BioJulia/actions/workflows/build.yml/badge.svg)](https://github.com/MillironX/docker-BioJulia/actions/workflows/build.yml)
+[![Build Docker](https://github.com/MillironX/docker-BioJulia/actions/workflows/build_docker.yml/badge.svg)](https://github.com/MillironX/docker-BioJulia/actions/workflows/build_docker.yml)
 [![Unlicense](https://img.shields.io/github/license/MillironX/docker-BioJulia)](https://github.com/MillironX/docker-BioJulia/blob/master/LICENSE)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/MillironX/docker-BioJulia)](https://github.com/MillironX/docker-BioJulia/tags)
 [![Docker Pulls](https://img.shields.io/docker/pulls/millironx/biojulia)](https://hub.docker.com/r/millironx/biojulia)
