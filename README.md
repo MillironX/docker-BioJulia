@@ -68,6 +68,7 @@ plus
 - [x] [FASTX](https://github.com/BioJulia/FASTX.jl)
 - [x] [GenomicAnnotations](https://github.com/BioJulia/GenomicAnnotations.jl)
 - [x] [GenomicFeatures](https://github.com/BioJulia/GenomicFeatures.jl)
+- [x] [GFF3](https://github.com/BioJulia/GFF3.jl)
 - [x] [MMTF](https://github.com/BioJulia/MMTF.jl)
 - [x] [TwoBit](https://github.com/BioJulia/TwoBit.jl)
 - [x] [VariantCallFormat](https://github.com/rasmushenningsson/VariantCallFormat.jl)

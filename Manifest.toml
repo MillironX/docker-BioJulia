@@ -750,6 +750,12 @@ version = "0.5.0"
 deps = ["Random"]
 uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
+[[GFF3]]
+deps = ["Automa", "BGZFStreams", "BioGenerics", "BioSequences", "FASTX", "GenomicFeatures", "Indexes", "TranscodingStreams", "URIParser"]
+git-tree-sha1 = "41449da1ca0e67339caf0c2c916950a90d25bd52"
+uuid = "af1dc308-cb6b-11e8-32f0-31192efa90f6"
+version = "0.2.1"
+
 [[GLFW_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Libglvnd_jll", "Pkg", "Xorg_libXcursor_jll", "Xorg_libXi_jll", "Xorg_libXinerama_jll", "Xorg_libXrandr_jll"]
 git-tree-sha1 = "51d2dfe8e590fbd74e7a842cf6d13d8a2f45dc01"
@@ -2375,6 +2381,12 @@ deps = ["BioGenerics", "BioSequences"]
 git-tree-sha1 = "adea0d50015bad1698e08a7500185fff0795f638"
 uuid = "75842c30-9b2d-11e9-3f58-f17fe2b89951"
 version = "0.1.0"
+
+[[URIParser]]
+deps = ["Unicode"]
+git-tree-sha1 = "53a9f49546b8d2dd2e688d216421d050c9a31d0d"
+uuid = "30578b45-9adc-5946-b283-645ec420af67"
+version = "0.4.1"
 
 [[URIs]]
 git-tree-sha1 = "97bbe755a53fe859669cd907f2d96aee8d2c1355"
