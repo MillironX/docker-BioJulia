@@ -78,6 +78,7 @@ plus
 
 - [x] [KmerAnalysis](https://github.com/BioJulia/KmerAnalysis.jl)
 - [x] [PopGen](https://github.com/BioJulia/PopGen.jl.git)
+- [x] [SequenceVariation](https://BioJulia/SequenceVariation.jl)
 
 ### Compression Codecs and File Processing
 
