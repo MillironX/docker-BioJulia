@@ -53,9 +53,9 @@ plus
 
 - [x] [BioAlignments](https://github.com/MillironX/BioAlignments.jl)
 - [x] [BioSequences](https://github.com/BioJulia/BioSequences.jl)
-- [x] [BioStructures](https://github.com/BioJulia/BioStructures.jl)
+- ~~[ ] [BioStructures](https://github.com/BioJulia/BioStructures.jl)~~ (Dependency mismatch with BioAlignments)
 - [x] [BioSymbols](https://github.com/BioJulia/BioSymbols.jl)
-- [x] [GenomeGraphs](https://github.com/BioJulia/GenomeGraphs.jl)
+- ~~[ ] [GenomeGraphs](https://github.com/BioJulia/GenomeGraphs.jl)~~ (Dependency mismatch with BioAlignments)
 - [x] [IntervalTrees](https://github.com/BioJulia/IntervalTrees.jl)
 - [x] [SubstitutionModels](https://github.com/BioJulia/SubstitutionModels.jl)
 
@@ -76,7 +76,7 @@ plus
 
 ### Analyses
 
-- [x] [KmerAnalysis](https://github.com/BioJulia/KmerAnalysis.jl)
+- ~~[ ] [KmerAnalysis](https://github.com/BioJulia/KmerAnalysis.jl)~~ (Dependency mismatch with BioAlignments)
 - [x] [PopGen](https://github.com/BioJulia/PopGen.jl.git)
 - [x] [SequenceVariation](https://BioJulia/SequenceVariation.jl)
 
@@ -95,7 +95,7 @@ plus
 ### Data Storage and Retrieval
 
 - [x] [BioServices](https://github.com/BioJulia/BioServices.jl)
-- [x] [ReadDatastores](https://github.com/BioJulia/ReadDatastores.jl)
+- ~~[ ] [ReadDatastores](https://github.com/BioJulia/ReadDatastores.jl)~~ (Dependency mismatch with BioAlignments)
 
 [`JULIA_DEPOT_PATH`]: https://docs.julialang.org/en/v1/manual/environment-variables/#JULIA_DEPOT_PATH
 [biojulia]: https://biojulia.net
