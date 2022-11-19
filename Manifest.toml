@@ -599,10 +599,10 @@ uuid = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
 version = "1.1.0"
 
 [[FASTX]]
-deps = ["Automa", "BioGenerics", "BioSequences", "BioSymbols", "TranscodingStreams"]
-git-tree-sha1 = "2f080a912d3b82b6a5a22f90843be63a753a9e1d"
+deps = ["Automa", "BioGenerics", "BioSequences", "ScanByte", "StringViews", "TranscodingStreams"]
+git-tree-sha1 = "9c72011edd523a83bf00276c4697a3019cea2257"
 uuid = "c2308a5c-f048-11e8-3e8a-31650f418d12"
-version = "1.3.0"
+version = "2.0.0"
 
 [[FFMPEG]]
 deps = ["FFMPEG_jll"]
@@ -740,12 +740,6 @@ version = "0.5.0"
 [[Future]]
 deps = ["Random"]
 uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
-
-[[GFF3]]
-deps = ["Automa", "BGZFStreams", "BioGenerics", "FASTX", "GenomicFeatures", "Indexes", "TranscodingStreams", "URIParser"]
-git-tree-sha1 = "c88fbcfe5b9ee631531c4312c3604d5dcd9c1040"
-uuid = "af1dc308-cb6b-11e8-32f0-31192efa90f6"
-version = "0.2.2"
 
 [[GLFW_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Libglvnd_jll", "Pkg", "Xorg_libXcursor_jll", "Xorg_libXi_jll", "Xorg_libXinerama_jll", "Xorg_libXrandr_jll"]
@@ -2273,6 +2267,11 @@ git-tree-sha1 = "46da2434b41f41ac3594ee9816ce5541c6096123"
 uuid = "892a3eda-7b42-436c-8928-eab12a02cf0e"
 version = "0.3.0"
 
+[[StringViews]]
+git-tree-sha1 = "609585ed628a4cd46f4c142762be37f5ced5dc7d"
+uuid = "354b36f9-a18e-4713-926e-db85100087ba"
+version = "1.0.3"
+
 [[StructArrays]]
 deps = ["Adapt", "DataAPI", "StaticArraysCore", "Tables"]
 git-tree-sha1 = "13237798b407150a6d2e2bce5d793d7d9576e99e"
@@ -2427,12 +2426,6 @@ deps = ["BioGenerics", "BioSequences"]
 git-tree-sha1 = "7282148766513eac708b96abdb7ab5bc555ed9c3"
 uuid = "75842c30-9b2d-11e9-3f58-f17fe2b89951"
 version = "0.2.0"
-
-[[URIParser]]
-deps = ["Unicode"]
-git-tree-sha1 = "53a9f49546b8d2dd2e688d216421d050c9a31d0d"
-uuid = "30578b45-9adc-5946-b283-645ec420af67"
-version = "0.4.1"
 
 [[URIs]]
 git-tree-sha1 = "e59ecc5a41b000fa94423a578d29290c7266fc10"
